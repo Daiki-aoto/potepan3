@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+font-family: "Helvetica Neue",sans-serif;
+background-color: #000000;
+color: #fff;
+line-height: 2.8;
+position: fixed;
+}
+
+html {
+    font-family: sans-serif;
+    
+}
+
+h3 {
+    font-size: 25px;
+    border-bottom:solid 1px #555;
+     text-align: center;
+
+}
+
+div {
+    text-align: center;
+} 
+
+/*====================================
+ストップウォッチ
+=======================================*/
+
+#timerA{
+   font-size: 48pt;
+    padding-top: 0.5em;
+
+}
+
+#startA {
+    font-size: 25pt;
+    padding-top: 0.5em;
+
+    font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  text-align: center;
+}
+
+#stopA {
+    font-size: 25pt;
+    padding-top: 0.5em;
+
+    font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  text-align: center;
+}
+
+#resetA {
+    font-size: 25pt;
+    padding-top: 0.5em;
+
+    font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  text-align: center;
+}
